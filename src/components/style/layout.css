@@ -1,0 +1,24 @@
+.header{
+    min-height: 20vh;
+    background-color: green;
+    border: 1px solid black;
+}
+
+.main{
+    text-align: center;
+    vertical-align: top;
+}
+
+.menu{
+    background-color: red;
+    min-width: 20%;
+    min-height: 60vh;
+    display: inline-block;
+}
+
+.container{
+    background-color: gray;
+    min-width: 80%;
+    min-height: 60vh;
+    display: inline-block;
+}
